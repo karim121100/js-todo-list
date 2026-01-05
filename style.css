@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+}
+
+.todo-box {
+  background: #fff;
+  padding: 20px;
+  width: 300px;
+  border-radius: 6px;
+}
+
+button {
+  margin-left: 5px;
+}
